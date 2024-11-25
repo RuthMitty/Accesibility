@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lacos/Documents/Projects/Unreal/Accesibility/Acceso_Xtreme/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/lacos/Documents/Projects/Unreal/Accesibility/Acceso_Xtreme/Content/Mission_System/BP_Objetive_Marker.uasset",
+				"C:/Users/lacos/Documents/Projects/Unreal/Accesibility/Acceso_Xtreme/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/lacos/Documents/Projects/Unreal/Accesibility/Acceso_Xtreme/Content/Mission_System/Objetive_widget.uasset",
+				"C:/Users/lacos/Documents/Projects/Unreal/Accesibility/Acceso_Xtreme/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/4Y/EX8PYJN6B4XJLDBDUCF86Y.uasset",
+				"C:/Users/lacos/Documents/Projects/Unreal/Accesibility/Acceso_Xtreme/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/EB/PBD29HR0VO1FICTZSXRX3W.uasset"
+			]
+		}
+	]
+}
